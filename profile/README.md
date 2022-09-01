@@ -3,3 +3,5 @@ _**PyWhy**’s mission is to build an open-source ecosystem for causal machine l
 [PyWhy Governance](https://github.com/py-why/governance): Learn about PyWhy's governance.
 
 [PyWhy Discord](https://discord.gg/cSBGb3vsZb): We use Discord to communicate and meet regularly.
+
+We'd love to get feedback via our **survey**: [Challenges of causal analysis](https://forms.gle/UsKALEMCyfswzbwd8). It takes less than 5 minutes.
